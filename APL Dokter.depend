@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592389747 source:c:\users\bimo\desktop\apl dokter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
